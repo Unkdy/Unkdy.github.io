@@ -43,7 +43,7 @@ Here is my GitHub page: </span>
             <li>Introduced reading information from files such as .txts</li>
             <li>This lab was one of my favorites because this was the start of us reading from files instead of relying on direct user input</li>
          </ol>
-  <li>Lab 9</li>
+  <li>Lab 10</li>
     <ol class="d"> 
         <li>Reading CSV files and 2D vectors</li>
         <li>The potential shown in the lab makes it my favorite, working with 2D vectors shows a new perspective on data storage and organization that I can take advantage of </li>
