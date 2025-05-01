@@ -27,7 +27,7 @@ ol.d {list-style-type: lower-alpha;
 <span style="color:White">
 Here is my GitHub page: </span>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; http://github.com/Unkdy
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [http://github.com/Unkdy](http://github.com/Unkdy)
 
 
 ### <span style="color:purple">CPSC 120 Favorite Labs</span>
