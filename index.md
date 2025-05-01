@@ -1,11 +1,3 @@
-<html>
-
-<head>
-    <title>Background Change</title>
-</head>
-
-<body bgcolor="Unkdy">
-    <h1>
 
 # <span style="color:Violet"> Hello World!!!! </span>
 
@@ -15,9 +7,7 @@
 
 >Here is my GitHub page: _http://github.com/Unkdy_
 
-### <span style="color:Violet">CPSC 120</span>
+### <span style="color:purple">CPSC 120</span>
 
-    </h1>
-</body>
-
-</html>
+* Lab 9
+* Lab 10
